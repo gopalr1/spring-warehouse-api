@@ -118,6 +118,7 @@ mvn clean verify
 
 To run this api as a container image. Using below commands will build the docker image and run
 
+Jar file can be build using mvn install or mvn package command
 ```
 
 
