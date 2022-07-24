@@ -114,4 +114,17 @@ For running test case
 mvn clean verify
 ```
 
+### Docker
+
+To run this api as a container image. Using below commands will build the docker image and run
+
+```
+
+
+docker build -t warehouse-api .
+
+docker container run -p 8080:8080 warehouse-api .
+
+
+```
  
