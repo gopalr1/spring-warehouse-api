@@ -101,6 +101,7 @@ In this Application the swagger UI is also configured for the API documentation 
 
 Swagger UI URL : http://localhost:8080/swagger-ui/index.html
 
+![Swagger](https://user-images.githubusercontent.com/20318317/180661148-9070e26e-a1d8-410a-b854-c90432641ea9.jpg)
 
 
 
