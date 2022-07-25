@@ -107,7 +107,7 @@ Swagger UI URL : http://localhost:8080/swagger-ui/index.html
 
 ## Test Cases
 
-
+![Test_Coverage](https://user-images.githubusercontent.com/20318317/180707787-981f56d4-449a-41d8-bee7-4a35bd78b1dc.jpg)
 
 Unit and Integration cases are written with 85% Test Coverage.
 
@@ -115,6 +115,12 @@ For running test case
 ```
 mvn clean verify
 ```
+
+## Monitering
+
+Following endpoints are available via Spring Actuator for health checks and monitering
+
+![Actuator](https://user-images.githubusercontent.com/20318317/180707816-408d2df3-9b26-4098-8a91-5855d51c2c64.jpg)
 
 ### Docker
 
