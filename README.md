@@ -116,9 +116,9 @@ For running test case
 mvn clean verify
 ```
 
-## Monitering
+## Monitoring
 
-Following endpoints are available via Spring Actuator for health checks and monitering
+Following endpoints are available via Spring Actuator for health checks and monitoring.
 
 ![Actuator](https://user-images.githubusercontent.com/20318317/180707816-408d2df3-9b26-4098-8a91-5855d51c2c64.jpg)
 
