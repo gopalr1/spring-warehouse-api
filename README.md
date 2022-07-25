@@ -126,7 +126,7 @@ Jar file can be build using mvn install or mvn package command
 
 docker build -t warehouse-api .
 
-docker container run -p 8080:8080 warehouse-api .
+docker run -d -p 8080:8080 -t warehouse-api 
 
 
 ```
